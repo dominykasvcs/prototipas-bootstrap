@@ -1,0 +1,17 @@
+header {
+    height: 80px;
+}
+
+.logo {
+ background: white;
+ height: 80px;
+ width: 150px;
+}
+
+.hero {
+    height: 400px;
+}
+
+.banner {
+    height: 150px;
+}
